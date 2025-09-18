@@ -1,9 +1,9 @@
 ﻿using System.Globalization;
 using System.Text;
-using EnumeracoesComposicao3.Entities;
-using EnumeracoesComposicao3.Entities.Enums;
+using EnumeracoesComposicao4.Entities;
+using EnumeracoesComposicao4.Entities.Enums;
 
-namespace EnumeracoesComposicao3.Entities
+namespace EnumeracoesComposicao4.Entities
 {
     internal class Order
     {
