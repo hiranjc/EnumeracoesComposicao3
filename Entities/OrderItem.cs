@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace EnumeracoesComposicao3.Entities
+namespace EnumeracoesComposicao4.Entities
 {
     internal class OrderItem
     {
