@@ -1,4 +1,4 @@
-﻿namespace EnumeracoesComposicao3.Entities.Enums
+﻿namespace EnumeracoesComposicao4.Entities.Enums
 {
     internal enum OrderStatus : int
     {
