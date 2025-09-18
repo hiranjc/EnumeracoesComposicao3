@@ -1,8 +1,8 @@
 ﻿using System.Globalization;
-using EnumeracoesComposicao3.Entities;
-using EnumeracoesComposicao3.Entities.Enums;
+using EnumeracoesComposicao4.Entities;
+using EnumeracoesComposicao4.Entities.Enums;
 
-namespace EnumeracoesComposicao3
+namespace EnumeracoesComposicao4
 {
     internal class Program
     {
