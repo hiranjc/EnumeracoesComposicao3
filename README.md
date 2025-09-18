@@ -1,1 +1,1 @@
-<img src="https://github.com/hiranjc/EnumeracoesComposicao3/blob/main/readme.png" width="290" />
+<img src="https://github.com/hiranjc/EnumeracoesComposicao3/blob/main/readme.png" width="300" />
