@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\EnumeracoesComposicao3\bin\Debug\net8.0\EnumeracoesComposicao3.exe
+C:\Users\ET73\Downloads\projetos-c#\EnumeracoesComposicao3\bin\Debug\net8.0\EnumeracoesComposicao3.deps.json
+C:\Users\ET73\Downloads\projetos-c#\EnumeracoesComposicao3\bin\Debug\net8.0\EnumeracoesComposicao3.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\EnumeracoesComposicao3\bin\Debug\net8.0\EnumeracoesComposicao3.dll
+C:\Users\ET73\Downloads\projetos-c#\EnumeracoesComposicao3\bin\Debug\net8.0\EnumeracoesComposicao3.pdb
+C:\Users\ET73\Downloads\projetos-c#\EnumeracoesComposicao3\obj\Debug\net8.0\EnumeracoesComposicao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\EnumeracoesComposicao3\obj\Debug\net8.0\EnumeracoesComposicao3.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\EnumeracoesComposicao3\obj\Debug\net8.0\EnumeracoesComposicao3.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\EnumeracoesComposicao3\obj\Debug\net8.0\EnumeracoesComposicao3.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\EnumeracoesComposicao3\obj\Debug\net8.0\EnumeracoesComposicao3.dll
+C:\Users\ET73\Downloads\projetos-c#\EnumeracoesComposicao3\obj\Debug\net8.0\refint\EnumeracoesComposicao3.dll
+C:\Users\ET73\Downloads\projetos-c#\EnumeracoesComposicao3\obj\Debug\net8.0\EnumeracoesComposicao3.pdb
+C:\Users\ET73\Downloads\projetos-c#\EnumeracoesComposicao3\obj\Debug\net8.0\EnumeracoesComposicao3.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\EnumeracoesComposicao3\obj\Debug\net8.0\ref\EnumeracoesComposicao3.dll
